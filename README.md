@@ -165,8 +165,9 @@ npm run preview
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT.
+Este proyecto está licenciado bajo la Licencia arktech.
 
 ## Contacto
+
 
 Para cualquier pregunta o sugerencia, por favor abre un issue en el repositorio.
